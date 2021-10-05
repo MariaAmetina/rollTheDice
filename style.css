@@ -160,11 +160,11 @@ i {
 }
 
 .winner {
-  background-color: #adadad;
+  background-color: #fad3ff;
 }
 .winner .player-name {
   font-weight: 300;
-  color: #9afc91;
+  color: #3fbe83;
 }
 
 .hidden {
